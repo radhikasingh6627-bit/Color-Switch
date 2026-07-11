@@ -8,7 +8,7 @@ Made by **Radhika Singh** as part of my personal JavaScript/DOM practice project
 https://radhikasingh6627-bit.github.io/Color-Switch/
 
 ## 📸 Preview
-
+https://github.com/radhikasingh6627-bit/Color-Switch/blob/main/Screenshot%202026-07-11%20230229.png
 ## ✨ Features
 
 - Six clickable coloured circles (red, yellow, green, blue, peru, purple)
