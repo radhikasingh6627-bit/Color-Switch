@@ -9,42 +9,6 @@ https://radhikasingh6627-bit.github.io/Color-Switch/
 
 ## 📸 Preview
 
-
-v
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## ✨ Features
 
 - Six clickable coloured circles (red, yellow, green, blue, peru, purple)
