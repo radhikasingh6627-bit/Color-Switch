@@ -10,6 +10,34 @@ https://radhikasingh6627-bit.github.io/Color-Switch/
 ## 📸 Preview
 
 
+v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
