@@ -9,8 +9,11 @@ https://radhikasingh6627-bit.github.io/Color-Switch/
 
 ## 📸 Preview
 
-> Add a screenshot of the app here after uploading, e.g.:
-> `![Color Switch preview](preview.png)`
+
+
+
+
+
 
 ## ✨ Features
 
