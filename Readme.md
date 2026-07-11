@@ -9,6 +9,7 @@ https://radhikasingh6627-bit.github.io/Color-Switch/
 
 ## 📸 Preview
 https://github.com/radhikasingh6627-bit/Color-Switch/blob/main/Screenshot%202026-07-11%20230229.png
+https://github.com/radhikasingh6627-bit/Color-Switch/blob/main/Readme.md
 ## ✨ Features
 
 - Six clickable coloured circles (red, yellow, green, blue, peru, purple)
