@@ -5,8 +5,7 @@ An interactive web app that changes a canvas's background colour when you click 
 Made by **Radhika Singh** as part of my personal JavaScript/DOM practice projects.
 
 ## 🔗 Live Demo
-
-> Add your live demo link here after deploying (e.g. via GitHub Pages) — see the "Deploying with GitHub Pages" section below.
+https://radhikasingh6627-bit.github.io/Color-Switch/
 
 ## 📸 Preview
 
